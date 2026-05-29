@@ -1,12 +1,14 @@
 # Xin chào, tôi là Nông Thị Hồng Lan 
 
 ## Thông tin cơ bản  
-- Sinh viên: D23 Công nghệ Đa phương tiện chuyên ngành Phát triển phần mềm
+- Sinh viên: D23 Công nghệ Đa phương tiện chuyên ngành Phát triển ứng dụng đa phương tiện
+- Khoá: 2023 - 2028
 - Trường: Học viện Công nghệ Bưu chính Viễn thông cơ sở TP Hồ Chí Minh
 - Email: honglanbd@gmail.com 
 
 ## Sở thích  
-- Lập trình & tìm hiểu công nghệ mới  
+- Lập trình & tìm hiểu công nghệ mới
+- Tìm hiểu cơ chế Game  
 - Đọc sách và học ngoại ngữ  
 - Nghe nhạc và xem phim  
 
