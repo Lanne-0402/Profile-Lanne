@@ -17,7 +17,11 @@
 - Công cụ: Git, GitHub, VS Code  
 
 ## 📂 Dự án học tập  
-- [📖 Software Engineering Lab](https://github.com/Lanne-0402/Nhap-mon-CNPM)  
+- [Hệ thống Chấm công nhân viên Timekeeping - Gr3](https://github.com/Lanne-0402/Timekeeping-Gr3)
+- [Đồ án thiết kế trang web Tiệm bánh Halo Sweet] (https://github.com/Lanne-0402/Web-Cake-Store)
+- [Dự án tham gia cuộc thi HCM PTIT MULTIMEDIA 2025](https://github.com/Lanne-0402/web_design_multi_68)
+- [Trang web Mymusic Streaming](https://lanne-0402.github.io/music-streaming-spec/)
+- [📖 Software Engineering Lab](https://github.com/Lanne-0402/Nhap-mon-CNPM)
 ---
 
 ✨ Cảm ơn đã ghé thăm trang GitHub của tôi!  
